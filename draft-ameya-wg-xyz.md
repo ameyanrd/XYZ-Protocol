@@ -8,7 +8,7 @@ submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
 number:
 date:
 consensus: true
-v: 0
+v: 1
 # area: WG AREA
 # workgroup: WG Working Group
 keyword:
@@ -25,8 +25,8 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
+    fullname: Ameya Deshpande
+    organization: My Org
     email: "ameyanrd@outlook.com"
 
 normative:
@@ -36,7 +36,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
+XYZ Protocol Abstract
 
 
 --- middle
