@@ -19,17 +19,17 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "XYZ Protocol"
+abbrev: "abc"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-ameya-wg-xyz-latest
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
 number:
 date:
 consensus: true
-v: 3
-area: AREA
+v: 0
+area: WG AREA
 workgroup: WG Working Group
 keyword:
  - next generation
