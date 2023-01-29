@@ -1,0 +1,83 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2023-01-29T00:54:25.629497+00:00",
+  "repo": "ameyanrd/XYZ-Protocol",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOI2j_TM5Ir5Nb",
+      "title": "Update draft-ameya-wg-xyz.md",
+      "url": "https://github.com/ameyanrd/XYZ-Protocol/pull/1",
+      "state": "MERGED",
+      "author": "ameyanrd",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2023-01-27T15:14:14Z",
+      "updatedAt": "2023-01-27T15:50:12Z",
+      "baseRepository": "ameyanrd/XYZ-Protocol",
+      "baseRefName": "main",
+      "baseRefOid": "cdf57fda1a38325f925b0ea9c88afb650f55f8c4",
+      "headRepository": "ameyanrd/XYZ-Protocol",
+      "headRefName": "ameyanrd-patch-1",
+      "headRefOid": "1a60d1251238ed5a66bee40af8402039780a055b",
+      "closedAt": "2023-01-27T15:50:11Z",
+      "mergedAt": "2023-01-27T15:50:11Z",
+      "mergedBy": "ameyanrd",
+      "mergeCommit": {
+        "oid": "71045612d96160397a7ecfc107b68d4d886cbd46"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
